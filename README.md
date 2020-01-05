@@ -2,7 +2,7 @@
 
 ---
 
-Detail Information Please Check Report
+Detailed Information Please Check [Report](https://github.com/zhangjw-THU/NGSIM-Trajectorier/blob/master/Report.pdf)
 
 ![](BirdView_LaneID.jpg)
 
